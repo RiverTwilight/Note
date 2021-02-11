@@ -8,4 +8,5 @@ title: RiverLoom
 ### 我在
 ## 第二章 冷雨夜
 ## 第三章 电视台
-## 第四章
+## 第四章 餐厅
+## 第五章 Lonely Christmas
