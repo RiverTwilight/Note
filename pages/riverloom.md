@@ -11,6 +11,6 @@ title: RiverLoom
 ## 第四章 餐厅
 ## 第五章 Lonely Christmas
 ## 第六章 新年
-## 第七章 断线
+## 第七章 断离的线
 ##
 ##
