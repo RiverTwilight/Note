@@ -12,5 +12,5 @@ title: RiverLoom
 ## 第五章 Lonely Christmas
 ## 第六章 新年
 ## 第七章 断离的线
-##
+## 第八章
 ##
